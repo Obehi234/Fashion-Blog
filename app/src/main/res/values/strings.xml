@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multiple RecyclerViews Application</string>
+    <string name="scroll_view_displaying_multiple_recycler_views">Scroll View displaying multiple recycler views</string>
+    <string name="bags_and_accessories_on_display">Bags and assessories on display</string>
+    <string name="fashion_items">High fashion items</string>
+    <string name="up_to_30_off">Up to 30% off</string>
+    <string name="lifestyle_hero_image">lifestyle hero image</string>
+    <string name="what_s_new_in_fashion">what\'s new in fashion</string>
+</resources>
